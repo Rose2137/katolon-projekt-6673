@@ -1,0 +1,47 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite6673,Firefox 84.0,,,2020-12-30 14:06:53,2020-12-30 14:07:56,"1m - 3,548s",PASSED
+,,,,,,,
+Test Cases/zaliczenie6673,Firefox 84.0,,,2020-12-30 14:06:53,2020-12-30 14:07:16,"23,320s",PASSED
+"openBrowser("""")",Firefox 84.0,,,2020-12-30 14:06:53,2020-12-30 14:06:58,"4,786s",PASSED
+"navigateToUrl(""https://www.eobuwie.com.pl/"")",Firefox 84.0,,,2020-12-30 14:06:58,2020-12-30 14:07:01,"2,756s",PASSED
+"click(findTestObject(""Object Repository/Page_Modne buty damskie, mskie, dziecice or_731cfb/button_Akceptuj""))",Firefox 84.0,,,2020-12-30 14:07:01,2020-12-30 14:07:04,"3,427s",PASSED
+"click(findTestObject(""Object Repository/Page_Modne buty damskie, mskie, dziecice or_731cfb/a_Zarejestruj""))",Firefox 84.0,,,2020-12-30 14:07:04,2020-12-30 14:07:06,"1,766s",PASSED
+"setText(findTestObject(""Object Repository/Page_Utwrz nowe konto klienta  eobuwie.pl/input_Za nowe konto_firstname""), Imie)",Firefox 84.0,,,2020-12-30 14:07:06,2020-12-30 14:07:07,"0,694s",PASSED
+"setText(findTestObject(""Object Repository/Page_Utwrz nowe konto klienta  eobuwie.pl/input_Imi_lastname""), Nazwisko)",Firefox 84.0,,,2020-12-30 14:07:07,2020-12-30 14:07:08,"0,784s",PASSED
+"setText(findTestObject(""Object Repository/Page_Utwrz nowe konto klienta  eobuwie.pl/input_Nazwisko_email""), Email)",Firefox 84.0,,,2020-12-30 14:07:08,2020-12-30 14:07:08,"0,779s",PASSED
+"setText(findTestObject(""Object Repository/Page_Utwrz nowe konto klienta  eobuwie.pl/input_Adres e-mail_password""), Haslo)",Firefox 84.0,,,2020-12-30 14:07:08,2020-12-30 14:07:09,"0,756s",PASSED
+"setText(findTestObject(""Object Repository/Page_Utwrz nowe konto klienta  eobuwie.pl/input_Haso_confirmation""), ReHaslo)",Firefox 84.0,,,2020-12-30 14:07:09,2020-12-30 14:07:10,"0,741s",PASSED
+"click(findTestObject(""Object Repository/Page_Utwrz nowe konto klienta  eobuwie.pl/svg""))",Firefox 84.0,,,2020-12-30 14:07:10,2020-12-30 14:07:11,"0,689s",PASSED
+"click(findTestObject(""Object Repository/Page_Utwrz nowe konto klienta  eobuwie.pl/svg_1""))",Firefox 84.0,,,2020-12-30 14:07:11,2020-12-30 14:07:11,"0,568s",PASSED
+"click(findTestObject(""Object Repository/Page_Utwrz nowe konto klienta  eobuwie.pl/button_Za nowe konto""))",Firefox 84.0,,,2020-12-30 14:07:11,2020-12-30 14:07:14,"3,117s",PASSED
+"click(findTestObject(""Object Repository/Page_Moje konto  eobuwie.pl/a_Zarzdzaj adresami""))",Firefox 84.0,,,2020-12-30 14:07:14,2020-12-30 14:07:16,"1,988s",PASSED
+,,,,,,,
+Test Cases/zaliczenie6673,Firefox 84.0,,,2020-12-30 14:07:16,2020-12-30 14:07:36,"19,515s",PASSED
+"openBrowser("""")",Firefox 84.0,,,2020-12-30 14:07:16,2020-12-30 14:07:21,"4,619s",PASSED
+"navigateToUrl(""https://www.eobuwie.com.pl/"")",Firefox 84.0,,,2020-12-30 14:07:21,2020-12-30 14:07:24,"2,703s",PASSED
+"click(findTestObject(""Object Repository/Page_Modne buty damskie, mskie, dziecice or_731cfb/button_Akceptuj""))",Firefox 84.0,,,2020-12-30 14:07:24,2020-12-30 14:07:25,"1,126s",PASSED
+"click(findTestObject(""Object Repository/Page_Modne buty damskie, mskie, dziecice or_731cfb/a_Zarejestruj""))",Firefox 84.0,,,2020-12-30 14:07:25,2020-12-30 14:07:26,"0,959s",PASSED
+"setText(findTestObject(""Object Repository/Page_Utwrz nowe konto klienta  eobuwie.pl/input_Za nowe konto_firstname""), Imie)",Firefox 84.0,,,2020-12-30 14:07:26,2020-12-30 14:07:27,"1,318s",PASSED
+"setText(findTestObject(""Object Repository/Page_Utwrz nowe konto klienta  eobuwie.pl/input_Imi_lastname""), Nazwisko)",Firefox 84.0,,,2020-12-30 14:07:27,2020-12-30 14:07:28,"0,833s",PASSED
+"setText(findTestObject(""Object Repository/Page_Utwrz nowe konto klienta  eobuwie.pl/input_Nazwisko_email""), Email)",Firefox 84.0,,,2020-12-30 14:07:28,2020-12-30 14:07:29,"0,748s",PASSED
+"setText(findTestObject(""Object Repository/Page_Utwrz nowe konto klienta  eobuwie.pl/input_Adres e-mail_password""), Haslo)",Firefox 84.0,,,2020-12-30 14:07:29,2020-12-30 14:07:29,"0,763s",PASSED
+"setText(findTestObject(""Object Repository/Page_Utwrz nowe konto klienta  eobuwie.pl/input_Haso_confirmation""), ReHaslo)",Firefox 84.0,,,2020-12-30 14:07:29,2020-12-30 14:07:30,"0,763s",PASSED
+"click(findTestObject(""Object Repository/Page_Utwrz nowe konto klienta  eobuwie.pl/svg""))",Firefox 84.0,,,2020-12-30 14:07:30,2020-12-30 14:07:31,"0,688s",PASSED
+"click(findTestObject(""Object Repository/Page_Utwrz nowe konto klienta  eobuwie.pl/svg_1""))",Firefox 84.0,,,2020-12-30 14:07:31,2020-12-30 14:07:31,"0,556s",PASSED
+"click(findTestObject(""Object Repository/Page_Utwrz nowe konto klienta  eobuwie.pl/button_Za nowe konto""))",Firefox 84.0,,,2020-12-30 14:07:31,2020-12-30 14:07:33,"1,965s",PASSED
+"click(findTestObject(""Object Repository/Page_Moje konto  eobuwie.pl/a_Zarzdzaj adresami""))",Firefox 84.0,,,2020-12-30 14:07:33,2020-12-30 14:07:36,"2,455s",PASSED
+,,,,,,,
+Test Cases/zaliczenie6673,Firefox 84.0,,,2020-12-30 14:07:36,2020-12-30 14:07:56,"20,238s",PASSED
+"openBrowser("""")",Firefox 84.0,,,2020-12-30 14:07:36,2020-12-30 14:07:41,"4,719s",PASSED
+"navigateToUrl(""https://www.eobuwie.com.pl/"")",Firefox 84.0,,,2020-12-30 14:07:41,2020-12-30 14:07:43,"2,708s",PASSED
+"click(findTestObject(""Object Repository/Page_Modne buty damskie, mskie, dziecice or_731cfb/button_Akceptuj""))",Firefox 84.0,,,2020-12-30 14:07:43,2020-12-30 14:07:45,"1,134s",PASSED
+"click(findTestObject(""Object Repository/Page_Modne buty damskie, mskie, dziecice or_731cfb/a_Zarejestruj""))",Firefox 84.0,,,2020-12-30 14:07:45,2020-12-30 14:07:46,"1,661s",PASSED
+"setText(findTestObject(""Object Repository/Page_Utwrz nowe konto klienta  eobuwie.pl/input_Za nowe konto_firstname""), Imie)",Firefox 84.0,,,2020-12-30 14:07:46,2020-12-30 14:07:47,"0,637s",PASSED
+"setText(findTestObject(""Object Repository/Page_Utwrz nowe konto klienta  eobuwie.pl/input_Imi_lastname""), Nazwisko)",Firefox 84.0,,,2020-12-30 14:07:47,2020-12-30 14:07:48,"0,754s",PASSED
+"setText(findTestObject(""Object Repository/Page_Utwrz nowe konto klienta  eobuwie.pl/input_Nazwisko_email""), Email)",Firefox 84.0,,,2020-12-30 14:07:48,2020-12-30 14:07:48,"0,763s",PASSED
+"setText(findTestObject(""Object Repository/Page_Utwrz nowe konto klienta  eobuwie.pl/input_Adres e-mail_password""), Haslo)",Firefox 84.0,,,2020-12-30 14:07:48,2020-12-30 14:07:49,"0,759s",PASSED
+"setText(findTestObject(""Object Repository/Page_Utwrz nowe konto klienta  eobuwie.pl/input_Haso_confirmation""), ReHaslo)",Firefox 84.0,,,2020-12-30 14:07:49,2020-12-30 14:07:50,"0,749s",PASSED
+"click(findTestObject(""Object Repository/Page_Utwrz nowe konto klienta  eobuwie.pl/svg""))",Firefox 84.0,,,2020-12-30 14:07:50,2020-12-30 14:07:50,"0,673s",PASSED
+"click(findTestObject(""Object Repository/Page_Utwrz nowe konto klienta  eobuwie.pl/svg_1""))",Firefox 84.0,,,2020-12-30 14:07:50,2020-12-30 14:07:51,"0,551s",PASSED
+"click(findTestObject(""Object Repository/Page_Utwrz nowe konto klienta  eobuwie.pl/button_Za nowe konto""))",Firefox 84.0,,,2020-12-30 14:07:51,2020-12-30 14:07:54,"3,032s",PASSED
+"click(findTestObject(""Object Repository/Page_Moje konto  eobuwie.pl/a_Zarzdzaj adresami""))",Firefox 84.0,,,2020-12-30 14:07:54,2020-12-30 14:07:56,"2,060s",PASSED

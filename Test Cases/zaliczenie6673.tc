@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>zaliczenie6673</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5387f98c-d9ef-4b61-8684-732277062264</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b336b6aa-6adc-43b6-a46a-402c54720bb2</id>
+      <masked>false</masked>
+      <name>Imie</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>32b80e05-c354-4603-bc78-822127b9632a</id>
+      <masked>false</masked>
+      <name>Nazwisko</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4e89034a-6d79-4f5f-993b-cce750726f88</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0265bc15-441f-4663-9c45-94b51a1245c0</id>
+      <masked>false</masked>
+      <name>Haslo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bce6a4b4-030e-4099-81fd-70ea8e86ade7</id>
+      <masked>false</masked>
+      <name>ReHaslo</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite6673,,,,2020-12-30 14:06:30,2020-12-30 14:06:34,"3,971s",FAILED
+,,,,,,,
+Test Cases/zaliczenie6673,,,,2020-12-30 14:06:31,2020-12-30 14:06:33,"2,231s",FAILED
+"openBrowser("""")",,,,2020-12-30 14:06:31,2020-12-30 14:06:33,"1,674s",FAILED
+,,,,,,,
+Test Cases/zaliczenie6673,,,,2020-12-30 14:06:33,2020-12-30 14:06:34,"0,619s",FAILED
+"openBrowser("""")",,,,2020-12-30 14:06:33,2020-12-30 14:06:34,"0,585s",FAILED
+,,,,,,,
+Test Cases/zaliczenie6673,,,,2020-12-30 14:06:34,2020-12-30 14:06:34,"0,596s",FAILED
+"openBrowser("""")",,,,2020-12-30 14:06:34,2020-12-30 14:06:34,"0,574s",FAILED

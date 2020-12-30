@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Test Suite6673</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>84c92ab8-27b8-4870-b776-e64e4f7ac0c0</testSuiteGuid>
+   <testCaseLink>
+      <guid>739619d3-c77e-49bd-9220-bc2a9dbb63f3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/zaliczenie6673</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>69b760ac-1128-4b3d-8f5d-55aac8f51fbd</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data_6673/6673</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>69b760ac-1128-4b3d-8f5d-55aac8f51fbd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Imie</value>
+         <variableId>b336b6aa-6adc-43b6-a46a-402c54720bb2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>69b760ac-1128-4b3d-8f5d-55aac8f51fbd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Nazwisko</value>
+         <variableId>32b80e05-c354-4603-bc78-822127b9632a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>69b760ac-1128-4b3d-8f5d-55aac8f51fbd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>4e89034a-6d79-4f5f-993b-cce750726f88</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>69b760ac-1128-4b3d-8f5d-55aac8f51fbd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Haslo</value>
+         <variableId>0265bc15-441f-4663-9c45-94b51a1245c0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>69b760ac-1128-4b3d-8f5d-55aac8f51fbd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ReHaslo</value>
+         <variableId>bce6a4b4-030e-4099-81fd-70ea8e86ade7</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
